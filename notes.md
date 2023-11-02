@@ -6,3 +6,6 @@
 - Difference between `h-full` and `h-screen`
     - `h-full` sets the height to 100% of its parent, as long as the parent has a defined height
     - `h-screen` used to make an element span the entire height of the viewport
+
+### 11/01/2023
+- Be careful about fixed sizes when it comes to aligning divs. Might be better to allow your div's width and height to be calculated by the content it contains
