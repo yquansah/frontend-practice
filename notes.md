@@ -8,4 +8,9 @@
     - `h-screen` used to make an element span the entire height of the viewport
 
 ### 11/01/2023
+
+### What did I learn?
 - Be careful about fixed sizes when it comes to aligning divs. Might be better to allow your div's width and height to be calculated by the content it contains
+
+### What should I learn?
+- Learn how to align items respective to the div
